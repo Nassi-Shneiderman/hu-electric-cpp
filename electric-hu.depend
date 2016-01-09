@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1452345669 source:f:\electric-hu\electic.cpp
+
+1452348436 source:f:\electric-hu\electric.cpp
+
+1452348841 source:f:\electric-hu\main.cpp
+	<iostream>
+	<cstdlib>
+	"electric.hpp"
+
+1452348426 f:\electric-hu\electric.hpp
+
+1452348364 f:\electric-hu\electric.cpp
+	"electric.hpp"
+
